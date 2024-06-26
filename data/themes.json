@@ -1,0 +1,13 @@
+{
+  "name": "themes",
+  "children": [
+    {
+      "name": "Access Control",
+      "children": [
+        {
+          "name": "Foo"
+        }
+      ]
+    }
+  ]
+}
